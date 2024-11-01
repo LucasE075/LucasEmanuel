@@ -1,2 +1,3 @@
-# LucasEmanuel
-My README profile for Github
+Hi there! 👋
+My name is Lucas
+
